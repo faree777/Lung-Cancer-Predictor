@@ -1,1 +1,1 @@
-# Lung-Cancer-Predictor
+Medical Query Answering System

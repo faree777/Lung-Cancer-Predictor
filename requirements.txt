@@ -1,0 +1,7 @@
+scikit-learn
+sentence-transformers
+groq
+streamlit
+pandas
+numpy
+tqdm
